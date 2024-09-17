@@ -1,0 +1,1 @@
+# LabSeatwork3_adapterPattern
